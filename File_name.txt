@@ -1,0 +1,3 @@
+the directory is the code_2
+the file name is file_name.txt
+
